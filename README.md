@@ -5,9 +5,6 @@ This project is inspired by a YouTube game show called **"คำต้องเ�
 On the show, repeated syllables are manually 📝 checked by assistants or judges, which can be slow and sometimes inaccurate. This project was created to automate that process, making the game more efficient and fair.
 
 
----
-
-
 ## Overview
 
 This project is built using Python 🐍 and Tkinter 🖥️ for the graphical user interface. It also leverages the pythainlp library for accurate Thai syllable tokenization.
@@ -23,9 +20,6 @@ This project is built using Python 🐍 and Tkinter 🖥️ for the graphical us
 🖱️ User Interaction: The interface allows users to add or remove words and resets the game when needed.
 
 
----
-
-
 ## Features
 
 This tool makes it easier to track repeated syllables during the game, ensuring accuracy and a smoother gameplay experience.
@@ -33,9 +27,6 @@ This tool makes it easier to track repeated syllables during the game, ensuring 
 - 📝 **Add Words**: Input words and have their syllables automatically extracted.
 - 🔎 **Detect Repetitions**: Instantly see if any syllables have been repeated within the round.
 - 🎨 **User-Friendly Interface**: A simple and intuitive design to keep the game flowing smoothly.
-
-
----
 
 
 ## How to Use
