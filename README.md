@@ -1,6 +1,6 @@
 # Word Link Game 🔗
 
-This project is inspired by a YouTube game show called **"คำต้องเชื่อม"** ("Words Must Connect"). In this game, players take turns saying **nouns** while ensuring that no syllables are repeated within the round. For example, if someone says **"rectangle",** the next person can't say **"triangle" ** because both words share the syllable **"gle".**
+This project is inspired by a YouTube game show called **"คำต้องเชื่อม"** ("Words Must Connect"). In this game, players take turns saying **nouns** while ensuring that no syllables are repeated within the round. For example, if someone says **"rectangle",** the next person can't say **"triangle"** because both words share the syllable **"gle".**
 
 On the show, repeated syllables are manually checked by assistants or judges, which can be slow and sometimes inaccurate. This project was created to automate that process, making the game more efficient and fair.
 
