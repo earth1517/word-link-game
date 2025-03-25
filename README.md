@@ -4,6 +4,7 @@ This project is inspired by a YouTube game show called **"คำต้องเ�
 
 On the show, repeated syllables are manually checked by assistants or judges, which can be slow and sometimes inaccurate. This project was created to automate that process, making the game more efficient and fair.
 
+![App Screenshot](Screenshot 2025-03-25 131355.png)
 
 ## Overview
 
