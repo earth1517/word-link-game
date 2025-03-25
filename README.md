@@ -7,7 +7,7 @@ On the show, repeated syllables are manually checked by assistants or judges, wh
 
 ## Overview
 
-This project is built using Python 🐍 and Tkinter 🖥️ for the graphical user interface. It also leverages the pythainlp library for accurate Thai syllable tokenization.
+This project is built using **Python** and **Tkinter** for the graphical user interface. It also leverages the **pythainlp** library for accurate Thai syllable tokenization.
 
 🔧 **How It Works:**
 
