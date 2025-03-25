@@ -4,10 +4,10 @@ from PIL import Image, ImageTk
 from pythainlp.tokenize import syllable_tokenize
 
 
-class ThaiSyllableMatcherApp:
+class WordLinkApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Thai Syllable Matcher")
+        self.root.title("Words Must Connect")
         self.root.geometry("650x680")
         self.root.configure(bg="#F5F5F5")
 
@@ -166,5 +166,5 @@ class ThaiSyllableMatcherApp:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = ThaiSyllableMatcherApp(root)
+    app = WordLinkApp(root)
     root.mainloop()
